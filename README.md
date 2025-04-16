@@ -1,7 +1,5 @@
 # Hi, I'm Dennis 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdennis-tra&count_bg=%233D81C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
 Hi there, I'm Dennis, a software engineer based in Switzerland who enjoys building things that live on and power the internet.
 
 Currently, I'm an industrial PhD candidate at the University of Göttingen [@GippLab](https://gipp.com) and primarily working in the [ProbeLab](https://pl-strflt.notion.site/ProbeLab-Protocol-Benchmarking-Optimization-a63238fd1b184d6f8fea4bb38d975208) Team at [Protocol Labs](https://protocol.ai).
